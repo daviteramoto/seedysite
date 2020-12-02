@@ -24,6 +24,7 @@ body {
     padding: 250px 25px;
     position: relative;
     width: 30pc;
+    max-width: 30pc;
   }
   .container-fluid {
     padding: 60px 50px;
@@ -64,6 +65,10 @@ body {
     font-size: 17px;
     background-color: #ddffb4;
     width: 30pc;
+  }
+  .container {
+    width: 30pc;
+    max-width: 30pc;
   }
   .effects {
     border: none;

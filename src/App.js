@@ -1,12 +1,15 @@
-import React from 'react';
-import Site from './Site'
+import React, { Component } from 'react';
+import Site from './Site';
 
-function App() {
-  return (
-    <div className="App">
+class App extends Component{
+
+  render(){
+    return(
+      <div>
         <Site />
-    </div>
-  );
+      </div>
+    );
+  }
 }
 
 export default App;

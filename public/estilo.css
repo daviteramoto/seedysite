@@ -23,6 +23,7 @@ body {
     background-color: #cdff90;
     padding: 250px 25px;
     position: relative;
+    width: 30pc;
   }
   .container-fluid {
     padding: 60px 50px;
@@ -40,6 +41,7 @@ body {
     letter-spacing: 4px;
     border-radius: 0;
     font-family: Montserrat, sans-serif;
+    width: 30pc;
   }
   .navbar li a, .navbar .navbar-brand {
     color: #000 !important;
@@ -61,6 +63,7 @@ body {
     font-family: Montserrat, sans-serif;
     font-size: 17px;
     background-color: #ddffb4;
+    width: 30pc;
   }
   .effects {
     border: none;

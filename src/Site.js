@@ -97,7 +97,7 @@ Também oferecemos uma grande variedade de redes para que o cliente possa experi
         <img src='maisa magali.png' className='img-circle person' alt='maisa' width='210' height='210'></img>
       </a><br/><br/>
       <div id='decr2'>
-        <p><strong>Maísaa Miranda</strong></p>
+        <p><strong>Maísa Miranda</strong></p>
         <p>Administradora</p>
       </div>
     </div>

@@ -74,7 +74,7 @@ Também oferecemos uma grande variedade de redes para que o cliente possa experi
       <div className='row text-center'>
         <div className='col'>
           <h2>DOWNLOAD</h2><br /><br /><br /><br />
-          <a href="https://drive.google.com/uc?export=download&id=12MezWCEKk6_bbluvKjZgcAPIwP7RYjpg"><button type='button' className='effects eft' id='btnDownload'>Baixe aqui</button></a>
+          <a href="https://drive.google.com/uc?export=download&id=1-HWfcBZbxkUwYcWPUZfC4-P3xTgkUGp0"><button type='button' className='effects eft' id='btnDownload'>Baixe aqui</button></a>
         </div>
       </div>
 </div>
